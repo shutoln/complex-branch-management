@@ -1,0 +1,1 @@
+console.log('this is modules/hello.js');
