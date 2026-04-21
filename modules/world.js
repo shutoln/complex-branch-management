@@ -1,1 +1,2 @@
 console.log('this is modules/world.js');
+console.log('fuga!!!')
