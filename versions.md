@@ -1,5 +1,5 @@
 hello: v9.17.0
-hoge: v10.25.0
+hoge: v10.26.10
 fuga: v12.22.1
 aaa: v14.20.0
 bbb: v16.14.0
