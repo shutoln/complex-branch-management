@@ -1,4 +1,4 @@
-hello: v8.17.0
+hello: v9.17.0
 hoge: v10.25.0
 fuga: v12.22.1
 aaa: v14.20.0
